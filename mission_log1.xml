@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MissionLog xmlns="https://www.w3schools.com"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.w3schools.com mission_log_schema.xsd">
+    <Player>StarPilot42</Player>
+    <MissionType>Exploration</MissionType>
+    <Date>2026-01-19T14:30:00</Date>
+    <Location>ArcCorp</Location>
+    <Description>Exploring ArcCorp for new mining locations.</Description>
+    <Crew>
+        <Member>StarPilot42</Member>
+        <Member>CoPilotX</Member>
+    </Crew>
+    <Resources>
+        <Resource unit="kg">
+            <Name>Quantanium</Name>
+            <Amount>50</Amount>
+        </Resource>
+        <Resource unit="kg">
+            <Name>Gold</Name>
+            <Amount>20</Amount>
+        </Resource>
+    </Resources>
+</MissionLog>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MissionLog xmlns="https://www.w3schools.com"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.w3schools.com mission_log_schema.xsd">
+    <Player>NovaTrader</Player>
+    <MissionType>Trade</MissionType>
+    <Date>2026-01-20T09:15:00</Date>
+    <Location>Hurston</Location>
+    <Crew>
+        <Member>NovaTrader</Member>
+        <Member>TradeBot</Member>
+        <Member>SecurityGuy</Member>
+    </Crew>
+    <Resources>
+        <Resource unit="kg">
+            <Name>Laranite</Name>
+            <Amount>10</Amount>
+        </Resource>
+        <Resource unit="ct">
+            <Name>Diamond</Name>
+            <Amount>5</Amount>
+        </Resource>
+    </Resources>
+</MissionLog>
